@@ -1,10 +1,17 @@
 # Learning-Agile
 
-# How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
-Interpreting user needs involves understanding the problem from the user’s perspective and translating their requirements into actionable development tasks. Creating “user stories” simplifies this process by breaking down complex needs into smaller, more manageable pieces. Each user story outlines the who, what, and why of a feature, helping ensure that the development team stays aligned with user expectations while maintaining focus on the most critical features that deliver value. This approach also allows for continuous feedback, so the program evolves to meet the changing needs of the users.
+Agile Methodology: Principles and Practice
+Written reflections and exercises from a deep dive into Agile software development. Covers sprint planning, user stories, scrum ceremonies, and what it actually means to work on an Agile team.
 
-# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work? 
-I approach developing programs with an emphasis on flexibility, ensuring that my code can evolve as new information or user feedback comes in. Agile processes like iterative development and regular sprint reviews help me stay responsive to changes and refine the program over time. In future projects, I aim to participate actively in both scrum ceremonies and the maintenance of important artifacts in order to support the agile system surrounding my team and project. I plan to integrate code into a shared repository frequently, even multiple times a day, to practice continuous integration and the early identification of bugs or functionality breaks. Within the team, I will nurture a healthy agile culture, focusing on self-organization and accountability, transparency, and collaboration. 
+Key Questions Explored
+How do user stories help?
+User stories break down complex requirements into the who, what, and why of a feature. They keep the team aligned with what the user actually needs instead of what someone assumed they needed. They also create natural checkpoints for feedback.
 
-# What does it mean to be a good team memeber in software development?
-Being a good team member in software development means actively contributing to the team's success by collaborating, sharing knowledge, and supporting others. This involves clear communication, being open to feedback, and stepping up when the team needs help with a particular task. A good team member also respects the Agile values of transparency and adaptability, ensuring that they are not just focused on their own tasks but on how their work integrates into the larger goals of the project.
+What does good Agile look like in practice?
+It means integrating code frequently, being honest in retrospectives, and not treating the sprint as a fixed contract. The goal is working software and the ability to change direction, not following a plan perfectly.
+
+What makes a good team member?
+Showing up, being honest about blockers, and caring about how your work connects to what everyone else is building. Agile does not work if people optimize only for their own tasks.
+
+Notes
+This repo is reflection-based rather than code-based. It documents how I think about collaborative software development, which shapes how I approach every project I build.
